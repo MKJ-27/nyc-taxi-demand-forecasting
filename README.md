@@ -191,4 +191,4 @@ It showcases strong skills in:
 
 ## ✨ Author
 
-**Mohammed Almajhad**  
+**Mohammed**  
