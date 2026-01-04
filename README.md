@@ -132,6 +132,22 @@ Performance analyzed by:
 
 ---
 
+## 📊 Key Visual Insights
+
+### Feature Importance
+![Feature Importance](assets/feature_importance.png)
+
+### Model Predictions vs Actual Demand
+![Actual vs Predicted](assets/actual_vs_predicted.png)
+
+### Forecasting Error by Hour of Day
+![MAE by Hour](assets/mae_by_hour.png)
+
+### Top 10 Zones by Total Demand
+![Top Zones by Demand](assets/top_zones_demand.png)
+
+---
+
 ## 📈 Business Insights
 
 ### Notebook 6 – Business Insights & Dashboard Prep
